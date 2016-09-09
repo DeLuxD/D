@@ -1,0 +1,23 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "MVC Framework for nodejs inspired with Sails.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeLuxD/D.git"
+  },
+  "keywords": [
+    "MVC",
+    "Framework"
+  ],
+  "author": "djansyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeLuxD/D/issues"
+  },
+  "homepage": "https://github.com/DeLuxD/D#readme"
+}
